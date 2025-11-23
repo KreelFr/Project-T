@@ -1,3 +1,7 @@
+# IPCycler
+Automatic TOR IP rotator for Kali Linux / WSL
+
+
 Got it! Here’s the **full README in one clean block** without author info, ready to publish:
 
 ````markdown
